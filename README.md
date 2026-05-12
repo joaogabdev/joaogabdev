@@ -22,6 +22,14 @@ Future Software Engineer focused on Python and Web Development.
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/joao-gabriel-santana-souza
-- email: joao.santana172801@gmail.com
-- ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaogabdev&show_icons=true&theme=tokyonight)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabdev&layout=compact&theme=tokyonight)
+- Email: joao.santana172801@gmail.com
+
+## 📊 GitHub Stats
+
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaogabdev&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabdev&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogabdev&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabdev&layout=compact&theme=tokyonight"/>
+</p>
