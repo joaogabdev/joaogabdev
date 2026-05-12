@@ -23,10 +23,3 @@ Future Software Engineer focused on Python and Web Development.
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/joao-gabriel-santana-souza
 - Email: joao.santana172801@gmail.com
-- 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogabdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabdev&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
