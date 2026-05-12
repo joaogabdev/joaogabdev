@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm João Gabriel 👋
 
-<!--
-**joaogabdev/joaogabdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Future Software Engineer focused on Python and Web Development.
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Goals for 2026
+- Build real projects
+- Improve problem solving
+- Create a strong developer portfolio
+- Start my Software Engineering degree
+
+## 🛠 Technologies
+- Python
+- HTML5
+- CSS3
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/joao-gabriel-santana-souza
+- email: joao.santana172801@gmail.com
