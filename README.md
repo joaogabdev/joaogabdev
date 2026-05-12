@@ -16,10 +16,12 @@ Future Software Engineer focused on Python and Web Development.
 - Start my Software Engineering degree
 
 ## 🛠 Technologies
-- Python
-- HTML5
-- CSS3
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/joao-gabriel-santana-souza
 - email: joao.santana172801@gmail.com
+- ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaogabdev&show_icons=true&theme=tokyonight)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabdev&layout=compact&theme=tokyonight)
