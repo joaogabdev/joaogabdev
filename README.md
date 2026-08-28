@@ -6,7 +6,7 @@ Software Engineering student passionate about programming and technology, curren
 
 - Python
 - Java
-- Git & GitHub
+- JavaScript
 - Software Development
 
 ## 📚 Knowledge & Courses
@@ -40,4 +40,4 @@ Software Engineering student passionate about programming and technology, curren
 
 ## 📫 Contact
 
-- LinkedIn: [João Gabriel](LINK_DO_LINKEDIN)
+- LinkedIn: [João Gabriel]((https://www.linkedin.com/in/joao-gabriel-santana-souza/))
