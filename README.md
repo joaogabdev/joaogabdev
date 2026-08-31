@@ -3,20 +3,20 @@
 Software Engineering student passionate about programming and technology. 
 I'm currently building my skills through university studies, technical courses, and personal projects.
 
-## 🚀 Currently Learning
-
-- Java
-- JavaScript
-- Python
-- Software Development
-- Computer Science fundamentals
-
 ## 📚 Studies & Learning
 
+### 🎓 Education
+
 - Software Engineering — FIAP
-- CS50x — Introduction to Computer Science
+
+### 🚀 Currently Learning
+
+- CS50x — Introduction to Computer Science - Harvard University
 - Java & Artificial Intelligence — DIO / Itaú Bootcamp
 - JavaScript Back-end — Alura
+
+### 📖 Previous Studies & Foundations
+
 - Programming Logic
 - HTML5 & CSS3
 
@@ -30,8 +30,6 @@ Some of my repositories include:
 - JavaScript arrays and objects
 - Programming logic
 - Python projects
-- Java projects
-- Back-end development
 
 ## 🎯 Goals
 
