@@ -1,33 +1,51 @@
 # Hi, I'm João Gabriel 👋
 
-Software Engineering student passionate about programming and technology, currently building my skills through courses and personal projects.
+Software Engineering student passionate about programming and technology. 
+I'm currently building my skills through university studies, technical courses, and personal projects.
 
 ## 🚀 Currently Learning
 
-- Python
 - Java
 - JavaScript
-- Software Development
-
-## 📚 Knowledge & Courses
-
-- Programming Logic
-- JavaScript
-- HTML5
-- CSS3
 - Python
+- Software Development
+- Computer Science fundamentals
 
-## 🎯 Goals for 2026
+## 📚 Studies & Learning
+
+- Software Engineering — FIAP
+- CS50x — Introduction to Computer Science
+- Java & Artificial Intelligence — DIO / Itaú Bootcamp
+- JavaScript Back-end — Alura
+- Programming Logic
+- HTML5 & CSS3
+
+## 💻 Projects & Practice
+
+I use my GitHub to document my learning journey, practice programming concepts, and build personal projects.
+
+Some of my repositories include:
+
+- JavaScript fundamentals
+- JavaScript arrays and objects
+- Programming logic
+- Python projects
+- Java projects
+- Back-end development
+
+## 🎯 Goals
 
 - Build real-world projects
-- Strengthen my programming fundamentals
-- Develop my skills in Python, Java and JavaScript
+- Strengthen my programming and computer science fundamentals
+- Develop my skills in Java, JavaScript, and Python
 - Build a strong developer portfolio
-- Grow as a Software Engineering student
+- Gain practical experience through projects and internships
+- Continue growing as a Software Engineering student
 
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,4 +54,4 @@ Software Engineering student passionate about programming and technology, curren
 
 ## 📫 Contact
 
-- LinkedIn: [João Gabriel]((https://www.linkedin.com/in/joao-gabriel-santana-souza/))
+- LinkedIn: [João Gabriel](https://www.linkedin.com/in/joao-gabriel-santana-souza/)
