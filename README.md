@@ -34,10 +34,6 @@ Software Engineering student passionate about programming and technology, curren
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📂 Featured Projects
-
-- 🎮 [Jokenpô em Python](LINK) — Rock Paper Scissors game developed with Python.
-
 ## 📫 Contact
 
 - LinkedIn: [João Gabriel]((https://www.linkedin.com/in/joao-gabriel-santana-souza/))
